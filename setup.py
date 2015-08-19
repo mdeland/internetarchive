@@ -31,7 +31,7 @@ setup(
     long_description=readme + '\n\n' + history,
     install_requires=[
         'requests==2.7.0',
-        'jsonpatch==0.4',
+        'jsonpatch==1.11',
         'docopt==0.6.2',
         'PyYAML==3.11',
         'clint==0.3.3',
